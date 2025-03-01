@@ -11,6 +11,14 @@ Local Eyes is a travel app designed to help users discover authentic experiences
 - **Offline Access** – Explore confidently without an internet connection.
 - **Interactive Maps** – Optimize routes for efficient navigation.
 
+## 🛠️ Tech Stack
+Local Eyes is built using modern technologies to ensure a smooth and efficient experience for users:
+- **Frontend:** Flutter (Dart)
+- **Backend & Database:** Firebase (Firestore, Authentication, Storage)
+- **Mapping & Navigation:** Google Maps API
+- **AI & NLP:** ChatGPT API for personalized recommendations
+- **Image Search & Enrichment:** Bing Image Search API
+
 ## 🎯 Target Audience
 Designed for tech-savvy travelers who value experiences over material goods, Local Eyes is perfect for adventurers, food lovers, and culture enthusiasts looking to go beyond typical sightseeing.
 
